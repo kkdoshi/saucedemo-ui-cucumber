@@ -1,0 +1,140 @@
+2022-02-11 01:02:468 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:56 INFO  LoginPage :40 - entering username : incorrect_email
+2022-02-11 01:02:223 INFO  LoginPage :45 - entering password : 
+2022-02-11 01:02:313 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:385 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Password is required<br>
+2022-02-11 01:02:227 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:158 INFO  LoginPage :40 - entering username : 
+2022-02-11 01:02:270 INFO  LoginPage :45 - entering password : incorrect_password
+2022-02-11 01:02:424 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:475 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username is required<br>
+2022-02-11 01:02:292 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:285 INFO  LoginPage :40 - entering username : abcde%$£
+2022-02-11 01:02:423 INFO  LoginPage :45 - entering password : 12345678
+2022-02-11 01:02:542 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:596 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username and password do not match any user in this service<br>
+2022-02-11 01:02:375 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:144 INFO  LoginPage :40 - entering username : 
+2022-02-11 01:02:256 INFO  LoginPage :45 - entering password : 
+2022-02-11 01:02:365 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:411 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username is required<br>
+2022-02-11 01:02:165 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:55 INFO  LoginPage :40 - entering username : standard_user
+2022-02-11 01:02:293 INFO  LoginPage :45 - entering password : secret_sauce
+2022-02-11 01:02:387 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:533 INFO  ProductPage :39 - selecting option from dropdown : Price (high to low)<br>
+2022-02-11 01:02:924 INFO  ProductPage :47 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (a25ad4826d6c8aad7535d12b881111db)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-02-11 01:02:204 INFO  ProductPage :47 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (a25ad4826d6c8aad7535d12b881111db)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-02-11 01:02:313 INFO  ProductPage :55 - Opening shopping cart : 2<br>
+2022-02-11 01:02:423 INFO  YourCartPage :27 - Clicking on checkout tab : CHECKOUT<br>
+2022-02-11 01:02:486 INFO  CheckoutPage :48 - entering firstname : Tom<br>
+2022-02-11 01:02:572 INFO  CheckoutPage :50 - entering lastname : Cat<br>
+2022-02-11 01:02:645 INFO  CheckoutPage :52 - entering postal code: HA8 7UU<br>
+2022-02-11 01:02:771 INFO  CheckoutPage :57 - Click on continue button : <br>
+2022-02-11 01:02:870 INFO  CheckoutPage :62 - Click on finish button : FINISH<br>
+2022-02-11 01:02:927 INFO  CheckoutPage :67 - Verifying Message : Thank you for your order<br>
+2022-02-11 01:02:615 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:292 INFO  LoginPage :40 - entering username : incorrect_email
+2022-02-11 01:02:431 INFO  LoginPage :45 - entering password : 
+2022-02-11 01:02:555 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:627 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Password is required<br>
+2022-02-11 01:02:419 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:240 INFO  LoginPage :40 - entering username : 
+2022-02-11 01:02:345 INFO  LoginPage :45 - entering password : incorrect_password
+2022-02-11 01:02:486 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:537 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username is required<br>
+2022-02-11 01:02:284 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:178 INFO  LoginPage :40 - entering username : abcde%$£
+2022-02-11 01:02:325 INFO  LoginPage :45 - entering password : 12345678
+2022-02-11 01:02:482 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:546 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username and password do not match any user in this service<br>
+2022-02-11 01:02:382 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:274 INFO  LoginPage :40 - entering username : 
+2022-02-11 01:02:378 INFO  LoginPage :45 - entering password : 
+2022-02-11 01:02:485 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:535 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username is required<br>
+2022-02-11 01:02:296 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 01:02:75 INFO  LoginPage :40 - entering username : standard_user
+2022-02-11 01:02:214 INFO  LoginPage :45 - entering password : secret_sauce
+2022-02-11 01:02:333 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 01:02:448 INFO  ProductPage :39 - selecting option from dropdown : Price (high to low)<br>
+2022-02-11 01:02:890 INFO  ProductPage :47 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (2b457a32a263959e4522ff05dfe0f64d)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-02-11 01:02:307 INFO  ProductPage :47 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (2b457a32a263959e4522ff05dfe0f64d)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-02-11 01:02:428 INFO  ProductPage :55 - Opening shopping cart : 2<br>
+2022-02-11 01:02:538 INFO  YourCartPage :27 - Clicking on checkout tab : CHECKOUT<br>
+2022-02-11 01:02:598 INFO  CheckoutPage :48 - entering firstname : Tom<br>
+2022-02-11 01:02:671 INFO  CheckoutPage :50 - entering lastname : Cat<br>
+2022-02-11 01:02:745 INFO  CheckoutPage :52 - entering postal code: HA8 7UU<br>
+2022-02-11 01:02:868 INFO  CheckoutPage :57 - Click on continue button : <br>
+2022-02-11 01:02:972 INFO  CheckoutPage :62 - Click on finish button : FINISH<br>
+2022-02-11 01:02:36 INFO  CheckoutPage :67 - Verifying Message : Thank you for your order<br>
+2022-02-11 08:02:243 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:369 INFO  LoginPage :40 - entering username : incorrect_email
+2022-02-11 08:02:512 INFO  LoginPage :45 - entering password : 
+2022-02-11 08:02:608 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:663 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Password is require<br>
+2022-02-11 08:02:754 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:806 INFO  LoginPage :40 - entering username : 
+2022-02-11 08:02:903 INFO  LoginPage :45 - entering password : incorrect_password
+2022-02-11 08:02:76 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:124 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username is required<br>
+2022-02-11 08:02:938 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:842 INFO  LoginPage :40 - entering username : abcde%$£
+2022-02-11 08:02:992 INFO  LoginPage :45 - entering password : 12345678
+2022-02-11 08:02:131 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:185 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username and password do not match any user in this service<br>
+2022-02-11 08:02:122 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:999 INFO  LoginPage :40 - entering username : 
+2022-02-11 08:02:115 INFO  LoginPage :45 - entering password : 
+2022-02-11 08:02:235 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:289 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username is required<br>
+2022-02-11 08:02:115 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:242 INFO  LoginPage :40 - entering username : standard_user
+2022-02-11 08:02:426 INFO  LoginPage :45 - entering password : secret_sauce
+2022-02-11 08:02:575 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:766 INFO  ProductPage :39 - selecting option from dropdown : Price (high to low)<br>
+2022-02-11 08:02:413 INFO  ProductPage :47 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (1acadfb977f1499a1bad3e474eb6e700)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-02-11 08:02:569 INFO  ProductPage :47 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (1acadfb977f1499a1bad3e474eb6e700)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-02-11 08:02:732 INFO  ProductPage :55 - Opening shopping cart : 2<br>
+2022-02-11 08:02:878 INFO  YourCartPage :27 - Clicking on checkout tab : CHECKOUT<br>
+2022-02-11 08:02:930 INFO  CheckoutPage :48 - entering firstname : Tom<br>
+2022-02-11 08:02:20 INFO  CheckoutPage :50 - entering lastname : Cat<br>
+2022-02-11 08:02:108 INFO  CheckoutPage :52 - entering postal code: HA8 7UU<br>
+2022-02-11 08:02:238 INFO  CheckoutPage :57 - Click on continue button : <br>
+2022-02-11 08:02:455 INFO  CheckoutPage :62 - Click on finish button : FINISH<br>
+2022-02-11 08:02:532 INFO  CheckoutPage :67 - Verifying Message : Thank you for your order<br>
+2022-02-11 08:02:687 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:421 INFO  LoginPage :40 - entering username : incorrect_email
+2022-02-11 08:02:546 INFO  LoginPage :45 - entering password : 
+2022-02-11 08:02:648 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:705 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Password is required<br>
+2022-02-11 08:02:601 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:564 INFO  LoginPage :40 - entering username : 
+2022-02-11 08:02:668 INFO  LoginPage :45 - entering password : incorrect_password
+2022-02-11 08:02:942 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:09 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username is required<br>
+2022-02-11 08:02:955 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:741 INFO  LoginPage :40 - entering username : abcde%$£
+2022-02-11 08:02:873 INFO  LoginPage :45 - entering password : 12345678
+2022-02-11 08:02:01 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:53 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username and password do not match any user in this service<br>
+2022-02-11 08:02:889 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:714 INFO  LoginPage :40 - entering username : 
+2022-02-11 08:02:812 INFO  LoginPage :45 - entering password : 
+2022-02-11 08:02:911 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:967 INFO  LoginPage :55 - Verifying Error Message : Epic sadface: Username is required<br>
+2022-02-11 08:02:830 INFO  ManageDriver :31 - Launching Chrome Browser
+2022-02-11 08:02:640 INFO  LoginPage :40 - entering username : standard_user
+2022-02-11 08:02:782 INFO  LoginPage :45 - entering password : secret_sauce
+2022-02-11 08:02:914 INFO  LoginPage :50 - Click on Logging Button : <br>
+2022-02-11 08:02:27 INFO  ProductPage :39 - selecting option from dropdown : Price (high to low)<br>
+2022-02-11 08:02:536 INFO  ProductPage :47 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (c90a0d7e5e2e4ecd23d1f3651a960948)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-02-11 08:02:723 INFO  ProductPage :47 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (c90a0d7e5e2e4ecd23d1f3651a960948)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-02-11 08:02:856 INFO  ProductPage :55 - Opening shopping cart : 2<br>
+2022-02-11 08:02:02 INFO  YourCartPage :27 - Clicking on checkout tab : CHECKOUT<br>
+2022-02-11 08:02:65 INFO  CheckoutPage :48 - entering firstname : Tom<br>
+2022-02-11 08:02:143 INFO  CheckoutPage :50 - entering lastname : Cat<br>
+2022-02-11 08:02:314 INFO  CheckoutPage :52 - entering postal code: HA8 7UU<br>
+2022-02-11 08:02:462 INFO  CheckoutPage :57 - Click on continue button : <br>
+2022-02-11 08:02:558 INFO  CheckoutPage :62 - Click on finish button : FINISH<br>
+2022-02-11 08:02:620 INFO  CheckoutPage :67 - Verifying Message : Thank you for your order<br>
